@@ -5,10 +5,10 @@
 I'm passionate about building robust backend systems and scalable APIs. My expertise lies in JavaScript/Node.js ecosystem with hands-on experience in database design, server deployment, and cloud infrastructure.
 
 ## 🔧 Technologies & Tools
-- **Backend**: Node.js, Express, NestJS
-- **Databases**: MongoDB, Mongoose, Redis
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda), Docker, CI/CD
-- **Other Tools**: Git, Postman, JWT, Swagger
+- **Backend**: Node.js, Express
+- **Databases**: MongoDB
+- **Cloud & DevOps**: AWS (EC2, S3,Lightsail) CI/CD
+- **Other Tools**: Git, Postman
 
 ## 🌱 Currently Learning
 - Microservices architecture

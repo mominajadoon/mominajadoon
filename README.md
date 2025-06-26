@@ -23,6 +23,3 @@ I'm passionate about building robust backend systems and scalable APIs. My exper
 ## 📫 How to Reach Me
 - LinkedIn: [Your LinkedIn Profile]()
 - Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
-![Momina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
